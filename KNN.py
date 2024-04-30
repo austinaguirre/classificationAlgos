@@ -75,8 +75,10 @@ class KMeans:
 
 
 # X = LoadClassificationDataSet()
-# kmeans = KMeans(k=11)
+# # LoadClassificationDataSetChosen('blobs_classification_dataset.csv')
+# kmeans = KMeans(k=5)
 # kmeans.fit(X)
+# labels = kmeans.labels
 # print("Labels:", kmeans.labels)
 # kmeans.plot_clusters(X)
 

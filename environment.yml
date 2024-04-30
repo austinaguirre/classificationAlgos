@@ -1,0 +1,38 @@
+name: mlforfun
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - numpy-base
+  - pip
+  - python
+  - sqlite
+  - pip:
+      - blinker
+      - click
+      - contourpy
+      - cycler
+      - flask
+      - fonttools
+      - itsdangerous
+      - jinja2
+      - joblib
+      - kiwisolver
+      - markupsafe
+      - matplotlib
+      - packaging
+      - pandas
+      - pillow
+      - pyparsing
+      - python-dateutil
+      - pytz
+      - scikit-learn
+      - scipy
+      - seaborn
+      - six
+      - threadpoolctl
+      - tzdata
+      - werkzeug
+
+
+
